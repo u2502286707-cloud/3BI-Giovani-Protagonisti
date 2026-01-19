@@ -83,9 +83,9 @@
             condividendo le idee.
         </p>
 
-        <h2>Video di approfondimento</h2>
-        <a class="video-link" href="https://www.youtube.com" target="_blank">
-            ▶ Video 1 – Spiegazione dell’argomento
+        <h2>Approfondimento</h2>
+        <a class="video-link" href="https://drive.google.com/file/d/1D27utmVtTOmioY7DBhRg3E3mpA6sDo5g/view" target="_blank">
+            ▶ Canzone  – Stessa strada stesso tempo
         </a>
         <a class="video-link" href="https://www.youtube.com" target="_blank">
             ▶ Video 2 – Esempio pratico
