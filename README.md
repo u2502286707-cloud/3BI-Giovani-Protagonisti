@@ -85,11 +85,11 @@
 
         <h2>Approfondimento</h2>
         <a class="video-link" href="https://drive.google.com/file/d/1D27utmVtTOmioY7DBhRg3E3mpA6sDo5g/view" target="_blank">
-            ▶ Canzone  – Stessa strada stesso tempo
-        </a>
-        <a class="video-link" https://docs.google.com/presentation/d/1AEF5VktPqd_C0CmiU6Awbf09tqRn2RNVi3iFr548Tag/edit?usp=sharing" target="_blank">
-            ▶ Presentazione – Relazioni 
-        </a>
+    ▶ Canzone  – Stessa strada stesso tempo
+</a>
+<a class="video-link" href="https://docs.google.com/presentation/d/1AEF5VktPqd_C0CmiU6Awbf09tqRn2RNVi3iFr548Tag/edit?usp=sharing" target="_blank">
+    ▶ Presentazione – Relazioni
+</a>
     </main>
 
     <footer>
